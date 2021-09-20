@@ -1,2 +1,2 @@
 # hyperblog
-Educativo
+Pruebas de los cursos sobre python, guthub, machine learning y estadística.
